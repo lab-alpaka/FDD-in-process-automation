@@ -1,6 +1,6 @@
-numpy
-pandas
-plotly
+numpy>=2.2,<3
+pandas>=2.2,<3
+plotly>=6,<7
 pyshewhart
-jupyterlab
-ipykernel
+jupyterlab>=4,<5
+ipykernel>=6,<7
